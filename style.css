@@ -3,3 +3,14 @@
   box-shadow: none;
   border: none;
 }
+
+.black-background {
+  background-color: #292929;
+  height: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ui.three.column.grid.container {
+  color: white;
+}
